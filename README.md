@@ -1,4 +1,5 @@
 # Petstore API Tests
+<img width="962" height="407" alt="Screenshot 2026-04-14" src="https://github.com/user-attachments/assets/1efd8fc2-fb59-4175-92d3-b7bc90eb213f" />
 
 Sample API test project for the [Swagger Petstore API](https://petstore.swagger.io).
 
