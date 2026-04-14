@@ -38,4 +38,8 @@ API.
 
 ## FYI:
 - This assignment is a part of an actual take-home task for a QA Engineer position 
-within a company, so this is what you can expect to do when applying for QA roles. 
+within a company, so this is what you can expect to do when applying for QA roles.
+
+## Issue Fail
+<img width="1186" height="800" alt="Screenshot 2026-04-14 12" src="https://github.com/user-attachments/assets/0c877da6-348b-43fb-b403-ea6ef22e70c7" />
+
